@@ -30,6 +30,7 @@ dnsDomainIs(host, "meet.google.com") ||
 dnsDomainIs(host, "accounts.google.com") ||
 dnsDomainIs(host, "www.gstatic.com") ||
 dnsDomainIs(host, "ssl.gstatic.com") ||
+dnsDomainIs(host, "drive.google.com") ||
 dnsDomainIs(host, "fonts.gstatic.com")
 )
 {
